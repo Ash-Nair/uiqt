@@ -47,12 +47,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             // user id is required
             var user_id = "ashwin"
             // account id is required for account analytics
-            var account_id = "useriq-unknown"
+            var account_id = "ashwin"
             useriq.setSiteId(useriq_site_id)
             useriq.identify(user_id, {
               user_name: 'useriq-unknown',
               account_id: account_id,
-              account_name: 'useriq-unknown',
+              account_name: 'ashwin',
               user_email: 'ashwin.nair@useriq.com',
               signup_date: '2017-11-29',
             })
